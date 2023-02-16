@@ -6,7 +6,7 @@ With this Address Book application, all of the contact data is written to a Fire
 
 ***Note you will need to create your cloud database project in Google Firebase and download a security .json file to make this application work.  You DO NOT need to create a collection as it will be created the first time you run this application.***
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/i1bmZ3Rsnd4)
 
 # Cloud Database
 
@@ -16,12 +16,12 @@ This application uses the collection "my_address_booK" where each contact in the
 
 # Development Environment
 
-Viusal Studio Code
-Python 3.10.1 64-bit
-Git / GitHub
-Google Firebase / Firestore
-Firebase Tools module 11.23.1
-Firebase-Admin module 0.4.8
+- Viusal Studio Code
+- Python 3.10.1 64-bit
+- Git / GitHub
+- Google Firebase / Firestore
+- Firebase Tools module 11.23.1
+- Firebase-Admin module 0.4.8
 
 # Useful Websites
 
