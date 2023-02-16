@@ -1,0 +1,9 @@
+__pycache__
+node_modules
+.vscode
+venv
+firebase-debug.log*
+firebase-debug.*.log*
+*.json
+*.txt
+*.csv
